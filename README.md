@@ -28,7 +28,7 @@ After reviewing the application, here are some suggestions for enhancements:
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/sameer-mohd09/SIMPLE-TODO.git
     ```
 2. Open the `index.html` file in your browser.
 
